@@ -1,0 +1,23 @@
+{
+  "name": "crawler",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Controller.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "form-data": "^4.0.0",
+    "node-fetch": "^3.1.0",
+    "node-html-parser": "^5.2.0",
+    "request": "^2.88.2",
+    "xml-js": "^1.6.11"
+  }
+}
